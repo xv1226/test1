@@ -2,11 +2,9 @@
 // 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
 public class Main {
     public static void main(String[] args) {
-/*
-        calculator cal = new calculator();
+
+        Calculator cal = new Calculator();
         cal.calculate(5,"+",5);
-*/
-        boolean calculateEnded = false;
-        // 구현 2.
+
     }
 }
